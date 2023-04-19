@@ -65,11 +65,3 @@ private:
     cv::Point center1, center2;
     cv::Mat _image;
 };
-
-
-
-
-class BaseFilter{
-public:
-
-};
